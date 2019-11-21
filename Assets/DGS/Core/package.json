@@ -3,7 +3,7 @@
     "displayName": "DGS Core",
     "version": "1.0.1",
     "unity": "2019.3",
-    "description": "Dasa game Studio Boilerplate and Core functionality package for use with the Unity 2019.3 package manager."
+    "description": "Dasa game Studio Boilerplate and Core functionality package for use with the Unity 2019.3 package manager.",
     "keywords": [
         "dgs",
         "unity",
