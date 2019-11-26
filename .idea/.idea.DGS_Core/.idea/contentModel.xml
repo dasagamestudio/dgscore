@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ankit\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ankit\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_DGS_Core.755483076.00" t="ExcludeRecursive" />
+    <e p="E:\AnkitSethi\Unity_Workspace\DGS_Core" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DGS" t="Include">
+          <e p="Core" t="Include">
+            <e p="DGSCoreAssemblyDefinition.asmdef" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="KeywordReplace.cs" t="Include" />
+              <e p="Utilities" t="Include">
+                <e p="EditorUtilities.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Utils" t="Include">
+                <e p="SafeAreaUtil.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ImageProcessingTests.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DGS_Core.sln" t="IncludeFlat" />
+      <e p="DGSCoreAssemblyDefinition.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
